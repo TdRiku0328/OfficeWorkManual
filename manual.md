@@ -19,6 +19,7 @@
 
 
 ## 宅配便の発送について
+Webサイトにアクセスして集荷依頼を送ります（https://www.kuronekoyamato.co.jp/ytc/customer）
 ## 電話、来客対応について
 ## ごみ収集について
 ## プリンタについて
